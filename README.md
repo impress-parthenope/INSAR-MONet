@@ -2,6 +2,7 @@
 This repository contains the testing code of **InSAR-MONet**, a CNN based solution for Interferometric SAR Phase denoising.
 
 if you find it usefule and use it for you research, please cite as the following
+```
 @ARTICLE{9961176,
   author={Vitale, Sergio and Ferraioli, Giampaolo and Pascazio, Vito and Schirinzi, Gilda},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
@@ -11,7 +12,7 @@ if you find it usefule and use it for you research, please cite as the following
   number={},
   pages={1-14},
   doi={10.1109/TGRS.2022.3224303}}
-
+```
 
 
 
